@@ -21,7 +21,7 @@
 В составе команды "Додостеры" я отвечал за UI/UX разработку и интеграцию интерфейса с бизнес-логикой. Мы разработали веб-приложение с классической клиент-серверной архитектурой. Основная цель которого — тарификация, анализ и прогнозирование почасового потребления электроэнергии для крупных предприятий.
 
 <p align="center">
-  <img src="https://github.com/coolcode17/coolcode17/blob/main/IMG_2019.HEIC" width="600">
+  <img src="https://github.com/coolcode17/coolcode17/blob/main/IMG_2019.jpg" width="600">
   <img src="https://github.com/coolcode17/coolcode17/blob/main/IMG_2384.jpg" width="600" alt="Победа на хакатоне ТНС Энерго">
 
 </p>
