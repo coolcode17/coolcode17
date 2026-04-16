@@ -1,12 +1,40 @@
-# 💫 About Me:
-Привет! Я Никита Дышко, студент 3 курса ДГТУ (Big Data & Machine Learning)<br><br>Я развиваюсь в области анализа данных и разработки нейросетевых архитектур. Мой фокус — Python-разработка и создание эффективных пайплайнов для обучения моделей.<br><br>Стек технологий:<br><br>Languages: Python (Pandas, NumPy, Matplotlib)<br><br>Deep Learning:  TensorFlow Keras (MLP, CNN, RNN)<br><br>Database: PostgreSQL (включая индексы, партиционирование и TimescaleDB)<br><br>Linux<br><br>Главное достижение: Победитель хакатона по кейсу ТНС Энерго. В составе команды отвечал за UI/UX разработку и интеграцию интерфейса с бизнес-логикой.
+# Привет, я Никита Дышко! 👋
 
+🎓 Студент 3 курса ДГТУ, обучаюсь на факультете Информатика и Вычислительная Техника на специальности Большие Данные и Машинное Обучение
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+Я развиваюсь в области анализа данных и разработки нейросетевых архитектур. Мой фокус — Python-разработка, исследование данных и создание эффективных пайплайнов для обучения ML/DL моделей. Стремлюсь попасть в Летнюю школу Яндекса!
 
+### 🛠 Мой стек технологий
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coolcode17&limit=5&theme=dark&combine_all_yearly_contributions=true)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🏆 Главное достижение: Победитель XVI Форума программных разработчиков Ростова-на-Дону "Хакатон ВЕСНА 2025" (Кейс ТНС Энерго)
+В составе команды "Додостеры" я отвечал за UI/UX разработку и интеграцию интерфейса с бизнес-логикой. Мы разработали веб-приложение с классической клиент-серверной архитектурой. Основная цель которого — тарификация, анализ и прогнозирование почасового потребления электроэнергии для крупных предприятий.
+
+<p align="center">
+  <img src="https://github.com/coolcode17/coolcode17/blob/main/IMG_2019.HEIC" width="600">
+  <img src="https://github.com/coolcode17/coolcode17/blob/main/IMG_2384.jpg" width="600" alt="Победа на хакатоне ТНС Энерго">
+
+</p>
+
+---
+
+### 🚀 Top Contributed Repositories
+
+#### [1. Handwritten Digits and Operators Recognition](https://github.com/coolcode17/Handwritten-Digits-and-Operators-recognition)
+*Распознавание рукописных цифр и математических операторов (CNN).*
+- **Фича:** Реализован автоматический выбор лучшей архитектуры модели, сравнивая accuracy несакольких моделей, *без* использования стандартных Grid Search и Random Search.
+- **Стек:** Python, TensorFlow, Keras, Matplotlib.
+
+---
+
+📫 **Как со мной связаться:** Telegram - https://t.me/nik_17_dy
