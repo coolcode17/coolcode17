@@ -65,4 +65,6 @@ https://github.com/coolcode17/first-year-pc-components-store-website
 
 ---
 
-📫 **Как со мной связаться:** Telegram - https://t.me/nik_17_dy
+📫 **Как со мной связаться:** 
+Telegram - https://t.me/nik_17_dy
+VK - https://vk.com/dyshkonik
