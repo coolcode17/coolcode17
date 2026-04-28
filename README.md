@@ -29,13 +29,39 @@
 
 ---
 
-### 🚀 Top Contributed Repositories
+### 🚀 Топ репозиториев
 
-#### [1. Handwritten Digits and Operators Recognition](https://github.com/coolcode17/Handwritten-Digits-and-Operators-recognition)
-*Распознавание рукописных цифр и математических операторов (CNN).*
-- **Фича:** Реализован автоматический выбор лучшей архитектуры модели, сравнивая accuracy несакольких моделей, *без* использования стандартных Grid Search и Random Search.
-- **Стек:** Python, TensorFlow, Keras, Matplotlib.
+1. Electric Traffic Web
+https://github.com/Dodosters/electrictraffic-web
+Веб-приложение для мониторинга и взаимодействия с системами электрического трафика/транспорта.
 
+Фича: Разработка интерактивного пользовательского интерфейса для удобной визуализации данных и клиент-серверного взаимодействия в рамках управления трафиком.
+
+Стек: JavaScript/TypeScript, HTML, CSS (потребует уточнения используемых фреймворков, например: React/Vue).
+
+2. Handwritten Digits and Operators Recognition
+https://github.com/coolcode17/Handwritten-Digits-and-Operators-recognition
+Распознавание рукописных цифр и математических операторов (CNN).
+
+Фича: Реализован автоматический выбор лучшей архитектуры модели, сравнивая accuracy нескольких моделей, без использования стандартных Grid Search и Random Search. Настроен продвинутый пайплайн препроцессинга (гамма-коррекция, центрирование и бинаризация для черных символов на белом фоне) для повышения точности инференса.
+
+Стек: Python, TensorFlow, Keras, OpenCV, Matplotlib.
+
+3. Transfer Learning
+https://github.com/coolcode17/Transfer-Learning
+Применение методов переноса обучения (Transfer Learning) для задач компьютерного зрения.
+
+Фича: Адаптация и дообучение (fine-tuning) предобученных архитектур глубокого обучения для эффективной классификации изображений. Это позволило добиться высокой точности при экономии вычислительных ресурсов.
+
+Стек: Python, TensorFlow, Keras.
+
+4. PC Components Store Website
+https://github.com/coolcode17/first-year-pc-components-store-website
+Сайт интернет-магазина компьютерных комплектующих (проект 1-го курса).
+
+Фича: Реализация базовой структуры e-commerce платформы: спроектирован каталог товаров, удобная навигация по категориям комплектующих и пользовательская логика корзины покупок.
+
+Стек: HTML, CSS, JavaScript.
 ---
 
 📫 **Как со мной связаться:** Telegram - https://t.me/nik_17_dy
