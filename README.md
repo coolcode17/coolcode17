@@ -62,6 +62,7 @@ https://github.com/coolcode17/first-year-pc-components-store-website
 Фича: Реализация базовой структуры e-commerce платформы: спроектирован каталог товаров, удобная навигация по категориям комплектующих и пользовательская логика корзины покупок.
 
 Стек: HTML, CSS, JavaScript.
+
 ---
 
 📫 **Как со мной связаться:** Telegram - https://t.me/nik_17_dy
