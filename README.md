@@ -39,7 +39,15 @@ https://github.com/Dodosters/electrictraffic-web
 
 Стек: JavaScript/TypeScript, HTML, CSS (потребует уточнения используемых фреймворков, например: React/Vue).
 
-2. Handwritten Digits and Operators Recognition
+2. Ways to Improve the Quality of Education
+https://github.com/coolcode17/Ways_to_improve_the_quality_of_education
+Исследовательский проект по анализу факторов, влияющих на академическую успеваемость студентов.
+
+Фича: Проведен глубокий статистический анализ данных (EDA) для выявления корреляций между условиями обучения и результатами экзаменов, подкрепленный визуализацией распределений.
+
+Стек: Python, Pandas, Seaborn, Matplotlib.
+
+3. Handwritten Digits and Operators Recognition
 https://github.com/coolcode17/Handwritten-Digits-and-Operators-recognition
 Распознавание рукописных цифр и математических операторов (CNN).
 
@@ -47,7 +55,7 @@ https://github.com/coolcode17/Handwritten-Digits-and-Operators-recognition
 
 Стек: Python, TensorFlow, Keras, OpenCV, Matplotlib.
 
-3. Transfer Learning
+4. Transfer Learning
 https://github.com/coolcode17/Transfer-Learning
 Применение методов переноса обучения (Transfer Learning) для задач компьютерного зрения.
 
@@ -55,7 +63,7 @@ https://github.com/coolcode17/Transfer-Learning
 
 Стек: Python, TensorFlow, Keras.
 
-4. PC Components Store Website
+5. PC Components Store Website
 https://github.com/coolcode17/first-year-pc-components-store-website
 Сайт интернет-магазина компьютерных комплектующих (проект 1-го курса).
 
